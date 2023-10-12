@@ -1,4 +1,4 @@
-# DS_Project2_2023_2
+# DS_Project_2_2023_2
 ### 2023-2 Data Structure Project #2
 
 ### Due date:  2023/11/16 23h 59m 59s.
