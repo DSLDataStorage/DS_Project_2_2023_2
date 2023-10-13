@@ -60,8 +60,6 @@ $ git clone https://github.com/DSLDataStorage/DS_Project_2_2023_2.git
 $ make
 g++ -std=c++11 -g -o run *.cpp *.h
 
-$ ls
-BpTree.cpp BpTreeNode.h FPNode.cpp main.cpp market.txt BpTreeDataNode.h command.txt FPNode.h makefile BpTree.h FPGrowth.cpp HeaderTable.cpp Manager.cpp FrequentPatternNode.h BpTreeIndexNode.h FPGrowth.h HeaderTable.h Manager.h **run**
 ```
 ### how to run code
 ##### ./(생성된 실행파일) 의 형식으로 생성된 run 실행파일을 실행한다.
