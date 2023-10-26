@@ -23,7 +23,7 @@ void BpTree::splitIndexNode(BpTreeNode* pIndexNode) {
 	
 }
 
-BpTreeNode* BpTree::searchDataNode(int n) {
+BpTreeNode* BpTree::searchDataNode(string name) {
 	BpTreeNode* pCur = root;
 	
 	return pCur;
