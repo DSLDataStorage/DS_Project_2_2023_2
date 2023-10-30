@@ -15,9 +15,10 @@
 --------------------------
 
 ### 1. 프로젝트 문서 및 소스코드 수정사항
-#### [2023_DS_Project2.pdf](https://github.com/DSLDataStorage/DS_Project2_2023_2/files/12883606/2023_DS_Project2.pdf)
+#### [2023_DS_Project2_v2.pdf](https://github.com/DSLDataStorage/DS_Project_2_2023_2/files/13200095/2023_DS_Project2_v2.pdf)
 
 ```
+10/30 - ver2 업로드 (보고서 채점 기준 변경 및 loan_book.txt 개행문자 명시
 10/12 - ver1 업로드
 ```
 
