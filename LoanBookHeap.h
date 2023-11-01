@@ -16,7 +16,7 @@ public:
     }
     
     void setRoot(LoanBookHeapNode* pN) { this->root = pN; }
-    LoanBookHeap* getRoot() { return root; }
+    LoanBookHeapNode* getRoot() { return root; }
 
     void heapifyUp(LoanBookHeapNode* pN);
     void heapifyDown(LoanBookHeapNode* pN);
