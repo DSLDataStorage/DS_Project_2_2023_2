@@ -15,9 +15,10 @@
 --------------------------
 
 ### 1. 프로젝트 문서 및 소스코드 수정사항
-#### [2023_DS_Project2_v3.pdf](https://github.com/DSLDataStorage/DS_Project_2_2023_2/files/13261531/2023_DS_Project2_v3.pdf)
+#### [2023_DS_Project2_v4.pdf](https://github.com/DSLDataStorage/DS_Project_2_2023_2/files/13264583/2023_DS_Project2_v4.pdf)
 
 ```
+11/06 - ver4 업로드 (SEARCH_BP 명령어 범위 명확히 명시)
 11/06 - ver3 업로드 (command.txt 인자 구분 형식 명시, SEARCH_BP 범위 탐색 예시 변경, 제출방법 및 형식 감점 기준 추가)
 10/30 - ver2 업로드 (보고서 채점 기준 변경 및 loan_book.txt 개행문자 명시
 10/12 - ver1 업로드
