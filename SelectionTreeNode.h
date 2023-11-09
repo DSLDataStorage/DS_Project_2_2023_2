@@ -35,7 +35,7 @@ public:
 
         LoanBookHeapNode* copy = new LoanBookHeapNode();
         copy->getLeftChild() = deepCopy(root->getLeftChild())
-        copy->getRightChild() = deepCopy(root->getLeftChild())
+        copy->getRightChild() = deepCopy(root->getRightChild())
 
         return copy;
     } 
